@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Spaghetti Bolognese",
+      "image": "/images/spaghetti.jpg",
+      "summary": "A classic Italian pasta dish with rich meat sauce."
+    },
+    {
+      "id": 2,
+      "title": "Vegetarian Curry",
+      "image": "/images/vegetarian-curry.jpg",
+      "summary": "A flavorful curry with mixed vegetables and spices."
+    },
+    {
+      "id": 3,
+      "title": "Chocolate Cake",
+      "image": "/images/chocolate-cake.jpg",
+      "summary": "A moist and rich chocolate cake topped with ganache."
+    }
+  ]
+  
